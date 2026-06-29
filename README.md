@@ -81,9 +81,6 @@ Pattern & Trend Identification
     │
     ▼
 Policy Recommendations
-    │
-    ▼
-Business Insights
 ```
 
 ---
@@ -188,7 +185,7 @@ UNEMPLOYMENT_ANALYSIS
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/UNEMPLOYMENT_ANALYSIS_INDIA.git
+git clone https://github.com/YOUR_USERNAME/unemployment_analysis_python.git
 ```
 
 Install the required libraries:
@@ -200,7 +197,7 @@ pip install -r requirements.txt
 Open the notebook:
 
 ```text
-UNEMPLOYMENT_ANALYSIS_INDIA.ipynb
+unemployment_analysis_python.ipynb
 ```
 
 Run all cells sequentially.
